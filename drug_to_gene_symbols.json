@@ -1,0 +1,3538 @@
+{
+    "2-mercaptoethane": [
+        "GSDMC"
+    ],
+    "abarelix": [
+        "GNRHR"
+    ],
+    "abatacept": [
+        "CD86",
+        "CD80"
+    ],
+    "abciximab": [
+        "ITGB3",
+        "ITGB3"
+    ],
+    "abiraterone acetate": [
+        "CYP17A1"
+    ],
+    "abobotulinumtoxina": [
+        "SNAP25"
+    ],
+    "acamprosate": [
+        "GRIN3B",
+        "GABRE"
+    ],
+    "acarbose": [
+        "AMY2A",
+        "MGAM"
+    ],
+    "acetaminophen": [
+        "GSDMC",
+        "FAAH",
+        "TRPV1"
+    ],
+    "acetazolamide": [
+        "CA1",
+        "CA12",
+        "CA4",
+        "CA2"
+    ],
+    "acetohydroxamic acid": [
+        "GSDMC"
+    ],
+    "acetophenazine": [
+        "DRD2"
+    ],
+    "acetylcholine": [
+        "CHRM3"
+    ],
+    "acetyldigitoxin": [
+        "ATP1B3"
+    ],
+    "aclidinium": [
+        "CHRM3"
+    ],
+    "acrisorcin": [
+        "GSDMC"
+    ],
+    "acrivastine": [
+        "HRH1"
+    ],
+    "acyclovir": [
+        "GSDMC"
+    ],
+    "adalimumab": [
+        "TNF"
+    ],
+    "adapalene": [
+        "GSDMC"
+    ],
+    "afatinib": [
+        "ERBB4",
+        "EGFR",
+        "ERBB2"
+    ],
+    "aflibercept": [
+        "GSDMC",
+        "PGF",
+        "VEGFA"
+    ],
+    "albiglutide": [
+        "GLP1R"
+    ],
+    "albuterol": [
+        "ADRB2"
+    ],
+    "alcaftadine": [
+        "HRH1"
+    ],
+    "alclometasone dipropionate": [
+        "NR3C1"
+    ],
+    "alefacept": [
+        "CD2"
+    ],
+    "alemtuzumab": [
+        "CD52"
+    ],
+    "alendronic acid": [
+        "FDPS"
+    ],
+    "alfentanil": [
+        "OPRM1"
+    ],
+    "aliskiren": [
+        "REN"
+    ],
+    "alkavervir": [
+        "GSDMC"
+    ],
+    "allopurinol": [
+        "XDH"
+    ],
+    "almotriptan": [
+        "HTR1B",
+        "HTR1D",
+        "HTR1F"
+    ],
+    "alogliptin": [
+        "DPP4"
+    ],
+    "alosetron": [
+        "HTR3A"
+    ],
+    "alprazolam": [
+        "GABRE"
+    ],
+    "alprostadil": [
+        "PTGER2",
+        "PTGER1"
+    ],
+    "alteplase": [
+        "PLG"
+    ],
+    "aluminum acetate": [
+        "GSDMC"
+    ],
+    "aluminum hydroxide": [
+        "GSDMC"
+    ],
+    "alvimopan": [
+        "OPRM1"
+    ],
+    "amantadine": [
+        "GRIN3B"
+    ],
+    "ambenonium": [
+        "ACHE"
+    ],
+    "amcinonide": [
+        "NR3C1"
+    ],
+    "amifostine": [
+        "GSDMC"
+    ],
+    "amiloride": [
+        "SCNN1B"
+    ],
+    "aminocaproic acid": [
+        "PLG",
+        "PLAT"
+    ],
+    "aminoglutethimide": [
+        "CYP11A1",
+        "CYP19A1"
+    ],
+    "amiodarone": [
+        "GSDMC",
+        "KCNH2"
+    ],
+    "amitriptyline": [
+        "GSDMC",
+        "SLC6A2",
+        "SLC6A4"
+    ],
+    "ammonium lactate": [
+        "GSDMC"
+    ],
+    "amoxapine": [
+        "SLC6A2",
+        "SLC6A4"
+    ],
+    "amphetamine": [
+        "GSDMC",
+        "SLC6A2",
+        "SLC6A3"
+    ],
+    "anakinra": [
+        "IL1R1"
+    ],
+    "anastrozole": [
+        "CYP19A1"
+    ],
+    "anileridine": [
+        "OPRM1",
+        "OPRK1"
+    ],
+    "anisindione": [
+        "GGCX"
+    ],
+    "anisotropine": [
+        "GSDMC",
+        "CHRM1",
+        "CHRM3"
+    ],
+    "antazoline": [
+        "HRH1"
+    ],
+    "apixaban": [
+        "F10"
+    ],
+    "apomorphine": [
+        "GSDMC"
+    ],
+    "aprepitant": [
+        "TACR1"
+    ],
+    "aprotinin": [
+        "PLG"
+    ],
+    "ardeparin sodium": [
+        "SERPINC1"
+    ],
+    "arformoterol": [
+        "ADRB2"
+    ],
+    "argatroban": [
+        "F2"
+    ],
+    "aripiprazole": [
+        "DRD2",
+        "GSDMC",
+        "HTR2A",
+        "HTR1A"
+    ],
+    "armodafinil": [
+        "SLC6A3"
+    ],
+    "arsenic trioxide": [
+        "TXNRD1"
+    ],
+    "artemisinin": [
+        "GSDMC"
+    ],
+    "artemotil": [
+        "GSDMC"
+    ],
+    "artenimol": [
+        "GSDMC"
+    ],
+    "artesunate": [
+        "GSDMC"
+    ],
+    "asenapine": [
+        "DRD2",
+        "HTR2A"
+    ],
+    "astemizole": [
+        "HRH1"
+    ],
+    "atomoxetine": [
+        "SLC6A2"
+    ],
+    "atorvastatin": [
+        "HMGCR"
+    ],
+    "atovaquone": [
+        "GSDMC"
+    ],
+    "atropine": [
+        "GSDMC",
+        "CHRM2",
+        "CHRM3",
+        "CHRM1"
+    ],
+    "auranofin": [
+        "GSDMC"
+    ],
+    "avanafil": [
+        "PDE5A"
+    ],
+    "avibactam": [
+        "GSDMC"
+    ],
+    "azacitidine": [
+        "DNMT3A",
+        "DNMT1"
+    ],
+    "azatadine": [
+        "HRH1"
+    ],
+    "azathioprine": [
+        "GSDMC",
+        "PPAT"
+    ],
+    "azelaic acid": [
+        "GSDMC"
+    ],
+    "azelastine": [
+        "HRH1"
+    ],
+    "azilsartan medoxomil": [
+        "AGTR1"
+    ],
+    "balsalazid": [
+        "PPARG",
+        "ALOX5"
+    ],
+    "basiliximab": [
+        "IL2RG"
+    ],
+    "beclomethasone dipropionate": [
+        "NR3C1"
+    ],
+    "belatacept": [
+        "CD86",
+        "CD80"
+    ],
+    "belimumab": [
+        "TNFSF13B"
+    ],
+    "benazepril": [
+        "ACE"
+    ],
+    "bendroflumethiazide": [
+        "SLC12A3"
+    ],
+    "benzphetamine": [
+        "SLC18A2",
+        "SLC6A2"
+    ],
+    "benzquinamide": [
+        "DRD2"
+    ],
+    "benzthiazide": [
+        "SLC12A3"
+    ],
+    "benztropine": [
+        "GSDMC",
+        "CHRM1"
+    ],
+    "benzyl alcohol": [
+        "GSDMC"
+    ],
+    "benzyl benzoate": [
+        "GSDMC"
+    ],
+    "bepotastine": [
+        "HRH1"
+    ],
+    "bepridil": [
+        "CACNA2D4"
+    ],
+    "beractant": [
+        "GSDMC"
+    ],
+    "betaine": [
+        "GSDMC"
+    ],
+    "betamethasone": [
+        "NR3C1"
+    ],
+    "betamethasone acetate": [
+        "NR3C1"
+    ],
+    "betamethasone benzoate": [
+        "NR3C1"
+    ],
+    "betamethasone dipropionate": [
+        "NR3C1"
+    ],
+    "betamethasone phosphoric acid": [
+        "NR3C1"
+    ],
+    "betamethasone valerate": [
+        "NR3C1"
+    ],
+    "betazole": [
+        "HRH2"
+    ],
+    "bethanechol": [
+        "GSDMC",
+        "CHRM2",
+        "CHRM3"
+    ],
+    "bethanidine": [
+        "SLC6A2"
+    ],
+    "bevacizumab": [
+        "VEGFA"
+    ],
+    "bicalutamide": [
+        "AR"
+    ],
+    "bimatoprost": [
+        "PTGFR"
+    ],
+    "biperiden": [
+        "CHRM1"
+    ],
+    "bisacodyl": [
+        "GSDMC"
+    ],
+    "bitolterol": [
+        "ADRB2"
+    ],
+    "bivalirudin": [
+        "F2"
+    ],
+    "blinatumomab": [
+        "CD3G",
+        "CD19"
+    ],
+    "bortezomib": [
+        "PSMC2"
+    ],
+    "bosutinib": [
+        "ABL1",
+        "SRC",
+        "LYN"
+    ],
+    "botulinum toxin type a purified neurotoxin complex": [
+        "SNAP25"
+    ],
+    "botulinum toxin type b": [
+        "VAMP2"
+    ],
+    "brentuximab vedotin": [
+        "TUBB2B",
+        "TNFRSF8"
+    ],
+    "bretylium": [
+        "SLC6A2"
+    ],
+    "brexpiprazole": [
+        "DRD2",
+        "HTR2A",
+        "HTR1A"
+    ],
+    "brinzolamide": [
+        "CA2"
+    ],
+    "bromocriptine": [
+        "GSDMC"
+    ],
+    "bromodiphenhydramine": [
+        "HRH1"
+    ],
+    "brompheniramine": [
+        "HRH1"
+    ],
+    "buclizine": [
+        "HRH1"
+    ],
+    "budesonide": [
+        "NR3C1"
+    ],
+    "bumetanide": [
+        "GSDMC",
+        "SLC12A1"
+    ],
+    "bupivacaine": [
+        "SCN4A"
+    ],
+    "buprenorphine": [
+        "GSDMC",
+        "OPRM1",
+        "OPRK1"
+    ],
+    "bupropion": [
+        "SLC6A2",
+        "SLC6A3"
+    ],
+    "buspirone": [
+        "GSDMC",
+        "HTR1A"
+    ],
+    "butabarbital": [
+        "GABRE"
+    ],
+    "butalbital": [
+        "GABRE"
+    ],
+    "butorphanol": [
+        "OPRM1",
+        "OPRK1"
+    ],
+    "cabazitaxel": [
+        "TUBB2B"
+    ],
+    "cabergoline": [
+        "GSDMC",
+        "DRD2"
+    ],
+    "cabozantinib": [
+        "GSDMC",
+        "KDR",
+        "MET"
+    ],
+    "caffeine": [
+        "GSDMC"
+    ],
+    "calcifediol": [
+        "VDR"
+    ],
+    "calcipotriene": [
+        "VDR"
+    ],
+    "calcitriol": [
+        "VDR"
+    ],
+    "calfactant": [
+        "GSDMC"
+    ],
+    "canagliflozin": [
+        "SLC5A2"
+    ],
+    "canakinumab": [
+        "IL1B"
+    ],
+    "candesartan cilexetil": [
+        "AGTR1"
+    ],
+    "cangrelor": [
+        "P2RY12"
+    ],
+    "capecitabine": [
+        "TYMS"
+    ],
+    "capsaicin": [
+        "TRPV1"
+    ],
+    "captopril": [
+        "ACE"
+    ],
+    "carbachol chloride": [
+        "CHRM3"
+    ],
+    "carbamazepine": [
+        "GSDMC"
+    ],
+    "carbidopa": [
+        "DDC"
+    ],
+    "carbinoxamine": [
+        "HRH1"
+    ],
+    "carboprost": [
+        "GSDMC",
+        "PTGFR"
+    ],
+    "carfilzomib": [
+        "PSMC2"
+    ],
+    "carglumic acid": [
+        "CPS1"
+    ],
+    "carisoprodol": [
+        "GSDMC"
+    ],
+    "carmustine": [
+        "GSR"
+    ],
+    "carphenazine": [
+        "DRD2",
+        "HTR2A"
+    ],
+    "carprofen": [
+        "PTGS2"
+    ],
+    "carvedilol": [
+        "GSDMC"
+    ],
+    "cefixime": [
+        "GSDMC"
+    ],
+    "celecoxib": [
+        "PTGS2"
+    ],
+    "ceritinib": [
+        "ALK"
+    ],
+    "cerivastatin": [
+        "HMGCR"
+    ],
+    "certolizumab pegol": [
+        "TNF"
+    ],
+    "ceruletide": [
+        "CCKAR"
+    ],
+    "cetirizine": [
+        "HRH1"
+    ],
+    "cetrorelix": [
+        "GNRHR"
+    ],
+    "cetuximab": [
+        "EGFR"
+    ],
+    "cetyl alcohol": [
+        "GSDMC"
+    ],
+    "cevimeline": [
+        "CHRM1",
+        "CHRM3"
+    ],
+    "chenodiol": [
+        "NR1H4"
+    ],
+    "chlophedianol": [
+        "GSDMC"
+    ],
+    "chlordiazepoxide": [
+        "GABRE"
+    ],
+    "chlormezanone": [
+        "GSDMC"
+    ],
+    "chloroquine": [
+        "GSDMC"
+    ],
+    "chlorothiazide": [
+        "SLC12A3"
+    ],
+    "chlorotrianisene": [
+        "ESR2"
+    ],
+    "chlorphenesin carbamate": [
+        "GSDMC"
+    ],
+    "chlorpheniramine": [
+        "HRH1"
+    ],
+    "chlorphentermine": [
+        "SLC6A4"
+    ],
+    "chlorpromazine": [
+        "GSDMC",
+        "HTR2A"
+    ],
+    "chlorprothixene": [
+        "DRD2",
+        "HTR2A"
+    ],
+    "chlorthalidone": [
+        "GSDMC",
+        "SLC12A3"
+    ],
+    "chlorzoxazone": [
+        "GSDMC",
+        "KCNN4"
+    ],
+    "cholecalciferol": [
+        "VDR"
+    ],
+    "cholic acid": [
+        "GSDMC"
+    ],
+    "choriogonadotropin alfa": [
+        "LHCGR"
+    ],
+    "chromic phosphate": [
+        "GSDMC"
+    ],
+    "ciclesonide": [
+        "NR3C1"
+    ],
+    "cidofovir": [
+        "GSDMC"
+    ],
+    "cilastatin": [
+        "DPEP1"
+    ],
+    "cilostazol": [
+        "GSDMC",
+        "PDE3A"
+    ],
+    "cimetidine": [
+        "HRH2"
+    ],
+    "cinacalcet": [
+        "CASR"
+    ],
+    "ciprofloxacin": [
+        "GSDMC"
+    ],
+    "cisapride": [
+        "HTR4"
+    ],
+    "citalopram": [
+        "SLC6A4"
+    ],
+    "clemastine": [
+        "HRH1"
+    ],
+    "clidinium": [
+        "CHRM1",
+        "CHRM3"
+    ],
+    "clindamycin": [
+        "GSDMC"
+    ],
+    "clobazam": [
+        "GABRE"
+    ],
+    "clobetasol propionate": [
+        "NR3C1"
+    ],
+    "clocortolone pivalate": [
+        "NR3C1"
+    ],
+    "clofarabine": [
+        "GSDMC",
+        "POLE3"
+    ],
+    "clofibrate": [
+        "PPARA"
+    ],
+    "clomipramine": [
+        "GSDMC",
+        "SLC6A4"
+    ],
+    "clonazepam": [
+        "GABRE"
+    ],
+    "clopidogrel": [
+        "P2RY12"
+    ],
+    "clorazepic acid": [
+        "GABRE"
+    ],
+    "clozapine": [
+        "DRD2",
+        "GSDMC",
+        "HTR2A"
+    ],
+    "colchicine": [
+        "TUBB2B"
+    ],
+    "collagenase clostridium histolyticum": [
+        "COL4A5"
+    ],
+    "conivaptan": [
+        "AVPR1A",
+        "AVPR2"
+    ],
+    "corticotropin": [
+        "MC2R"
+    ],
+    "corticotropin zinc hydroxide": [
+        "MC2R"
+    ],
+    "cortisone acetate": [
+        "NR3C1"
+    ],
+    "cosyntropin": [
+        "MC2R"
+    ],
+    "crizotinib": [
+        "MET",
+        "ALK"
+    ],
+    "crofelemer": [
+        "CFTR",
+        "ANO1"
+    ],
+    "cromolyn": [
+        "GSDMC"
+    ],
+    "crotamiton": [
+        "GSDMC"
+    ],
+    "cryptenamine acetates": [
+        "GSDMC"
+    ],
+    "cryptenamine tannates": [
+        "GSDMC"
+    ],
+    "cupric sulfate": [
+        "GSDMC"
+    ],
+    "cyclizine": [
+        "HRH1"
+    ],
+    "cyclobenzaprine": [
+        "HTR2A"
+    ],
+    "cyclopentolate": [
+        "CHRM3"
+    ],
+    "cycloserine": [
+        "GSDMC"
+    ],
+    "cyclosporine": [
+        "PPIA",
+        "GSDMC"
+    ],
+    "cyclothiazide": [
+        "SLC12A3"
+    ],
+    "cycrimine": [
+        "CHRM1"
+    ],
+    "cyproheptadine": [
+        "GSDMC",
+        "HRH1"
+    ],
+    "cytarabine": [
+        "POLE3"
+    ],
+    "dabigatran etexilate": [
+        "F2"
+    ],
+    "dabrafenib": [
+        "BRAF"
+    ],
+    "daclizumab": [
+        "IL2RG"
+    ],
+    "dalfampridine": [
+        "KCND1"
+    ],
+    "dalteparin sodium": [
+        "SERPINC1"
+    ],
+    "danaparoid sodium": [
+        "SERPINC1"
+    ],
+    "danazol": [
+        "GSDMC",
+        "PGR",
+        "AR"
+    ],
+    "dantrolene": [
+        "RYR1",
+        "RYR3"
+    ],
+    "dapagliflozin": [
+        "SLC5A2"
+    ],
+    "dapiprazole": [
+        "GSDMC",
+        "ADRA1A"
+    ],
+    "darbepoetin alfa": [
+        "EPOR"
+    ],
+    "darifenacin": [
+        "CHRM2",
+        "CHRM3"
+    ],
+    "dasatinib": [
+        "ABL1",
+        "KIT",
+        "PDGFRB",
+        "EPHA2"
+    ],
+    "daunorubicin": [
+        "TOP2A"
+    ],
+    "decitabine": [
+        "DNMT3A",
+        "DNMT1"
+    ],
+    "deferiprone": [
+        "GSDMC"
+    ],
+    "degarelix": [
+        "GNRHR"
+    ],
+    "delavirdine": [
+        "GSDMC"
+    ],
+    "demecarium": [
+        "ACHE"
+    ],
+    "denileukin diftitox": [
+        "EEF2",
+        "IL2RG"
+    ],
+    "denosumab": [
+        "TNFSF11"
+    ],
+    "deserpidine": [
+        "SLC18A2"
+    ],
+    "desflurane": [
+        "GABRE",
+        "GLRB",
+        "KCNK2",
+        "KCNK9",
+        "KCNK18",
+        "KCNK3",
+        "KCNK10"
+    ],
+    "desipramine": [
+        "GSDMC",
+        "SLC6A2"
+    ],
+    "desirudin": [
+        "F2"
+    ],
+    "deslanoside": [
+        "ATP1B3"
+    ],
+    "desloratadine": [
+        "HRH1"
+    ],
+    "desogestrel": [
+        "PGR"
+    ],
+    "desonide": [
+        "NR3C1"
+    ],
+    "desoximetasone": [
+        "NR3C1"
+    ],
+    "desoxycorticosterone acetate": [
+        "NR3C2"
+    ],
+    "desoxycorticosterone pivalate": [
+        "NR3C2"
+    ],
+    "desvenlafaxine": [
+        "SLC6A2",
+        "SLC6A4"
+    ],
+    "dexamethasone": [
+        "NR3C1"
+    ],
+    "dexamethasone acetate": [
+        "NR3C1"
+    ],
+    "dexamethasone phosphoric acid": [
+        "NR3C1"
+    ],
+    "dexbrompheniramine": [
+        "HRH1"
+    ],
+    "dexchlorpheniramine": [
+        "HRH1"
+    ],
+    "dexlansoprazole": [
+        "ATP4B"
+    ],
+    "dexmethylphenidate": [
+        "SLC6A2",
+        "SLC6A3"
+    ],
+    "dextroamphetamine": [
+        "SLC18A2",
+        "SLC6A2",
+        "SLC6A3"
+    ],
+    "dextromethorphan": [
+        "GSDMC",
+        "SIGMAR1",
+        "GRIN2A"
+    ],
+    "dezocine": [
+        "OPRM1",
+        "OPRK1"
+    ],
+    "diazepam": [
+        "GABRE"
+    ],
+    "diazoxide": [
+        "GSDMC",
+        "KCNJ8"
+    ],
+    "dibucaine": [
+        "SCN10A",
+        "SCN5A"
+    ],
+    "dichlorphenamide": [
+        "GSDMC",
+        "CA4",
+        "CA2",
+        "CA1",
+        "CA12"
+    ],
+    "dicloxacillin": [
+        "GSDMC"
+    ],
+    "dicumarol": [
+        "VKORC1"
+    ],
+    "dicyclomine": [
+        "GSDMC",
+        "CHRM1",
+        "CHRM3"
+    ],
+    "didanosine": [
+        "GSDMC"
+    ],
+    "dienestrol": [
+        "ESR1"
+    ],
+    "dienogest": [
+        "GSDMC"
+    ],
+    "diethylpropion": [
+        "SLC6A2",
+        "SLC6A3"
+    ],
+    "diethylstilbestrol": [
+        "ESR1"
+    ],
+    "difenoxin": [
+        "OPRM1"
+    ],
+    "diflorasone diacetate": [
+        "NR3C1"
+    ],
+    "difluprednate": [
+        "NR3C1"
+    ],
+    "digitoxin": [
+        "ATP1B3"
+    ],
+    "digoxin": [
+        "ATP1B3"
+    ],
+    "dihydrocodeine": [
+        "OPRM1"
+    ],
+    "dihydroergotamine": [
+        "HTR1D"
+    ],
+    "dimenhydrinate": [
+        "GSDMC",
+        "HRH1"
+    ],
+    "dimethyl fumarate": [
+        "KEAP1"
+    ],
+    "dimethyl sulfoxide": [
+        "GSDMC"
+    ],
+    "dinoprost": [
+        "PTGFR"
+    ],
+    "diphemanil": [
+        "CHRM1",
+        "CHRM3"
+    ],
+    "diphenhydramine": [
+        "HRH1"
+    ],
+    "diphenidol": [
+        "CHRM1"
+    ],
+    "diphenoxylate": [
+        "OPRM1"
+    ],
+    "diphenylpyraline": [
+        "HRH1"
+    ],
+    "dipyridamole": [
+        "GSDMC",
+        "PDE6G",
+        "SLC29A1"
+    ],
+    "disopyramide": [
+        "GSDMC"
+    ],
+    "disulfiram": [
+        "ALDH2"
+    ],
+    "dobutamine": [
+        "ADRB2"
+    ],
+    "docetaxel": [
+        "TUBB2B"
+    ],
+    "dofetilide": [
+        "GSDMC",
+        "KCNH2"
+    ],
+    "dolasetron": [
+        "HTR3A"
+    ],
+    "donepezil": [
+        "ACHE"
+    ],
+    "dopamine": [
+        "GSDMC"
+    ],
+    "dorzolamide": [
+        "CA2"
+    ],
+    "doxapram": [
+        "KCNK3",
+        "KCNK9"
+    ],
+    "doxepin": [
+        "GSDMC",
+        "SLC6A2"
+    ],
+    "doxercalciferol": [
+        "VDR"
+    ],
+    "doxorubicin": [
+        "TOP2A"
+    ],
+    "doxycycline": [
+        "MMP7",
+        "GSDMC",
+        "MMP8",
+        "MMP1",
+        "MMP13"
+    ],
+    "doxylamine": [
+        "HRH1"
+    ],
+    "dromostanolone propionate": [
+        "AR"
+    ],
+    "dronabinol": [
+        "CNR1"
+    ],
+    "dronedarone": [
+        "GSDMC",
+        "HCN4",
+        "KCNJ2"
+    ],
+    "droperidol": [
+        "HTR2A"
+    ],
+    "drospirenone": [
+        "PGR",
+        "NR3C2"
+    ],
+    "drotrecogin alfa (activated)": [
+        "F5",
+        "F8"
+    ],
+    "dulaglutide": [
+        "GLP1R"
+    ],
+    "duloxetine": [
+        "SLC6A2",
+        "SLC6A4"
+    ],
+    "dutasteride": [
+        "SRD5A3"
+    ],
+    "dydrogesterone": [
+        "PGR"
+    ],
+    "dyphylline": [
+        "PDE3A"
+    ],
+    "echothiophate": [
+        "ACHE"
+    ],
+    "eculizumab": [
+        "C5"
+    ],
+    "edetate calcium disodium": [
+        "GSDMC"
+    ],
+    "edoxaban": [
+        "F10"
+    ],
+    "edrophonium": [
+        "ACHE"
+    ],
+    "efavirenz": [
+        "GSDMC"
+    ],
+    "eflornithine": [
+        "GSDMC",
+        "ODC1"
+    ],
+    "eletriptan": [
+        "HTR1B",
+        "HTR1D",
+        "HTR1F"
+    ],
+    "eliglustat": [
+        "UGCG"
+    ],
+    "eltrombopag": [
+        "MPL"
+    ],
+    "eluxadoline": [
+        "GSDMC",
+        "OPRM1"
+    ],
+    "emedastine": [
+        "HRH1"
+    ],
+    "empagliflozin": [
+        "SLC5A2"
+    ],
+    "enalapril": [
+        "ACE"
+    ],
+    "enalaprilat": [
+        "ACE"
+    ],
+    "enclomiphene": [
+        "ESR1"
+    ],
+    "enflurane": [
+        "GSDMC",
+        "GABRE",
+        "GLRB",
+        "KCNK2",
+        "KCNK9",
+        "KCNK18",
+        "KCNK3",
+        "KCNK10"
+    ],
+    "enoxaparin sodium": [
+        "SERPINC1"
+    ],
+    "entacapone": [
+        "COMT"
+    ],
+    "enzalutamide": [
+        "AR"
+    ],
+    "epinastine": [
+        "HRH1"
+    ],
+    "epirubicin": [
+        "GSDMC"
+    ],
+    "eplerenone": [
+        "NR3C2"
+    ],
+    "epoetin alfa": [
+        "EPOR"
+    ],
+    "epoprostenol": [
+        "GSDMC",
+        "PTGIR"
+    ],
+    "eprosartan": [
+        "AGTR1"
+    ],
+    "eptifibatide": [
+        "ITGB3"
+    ],
+    "ergocalciferol": [
+        "VDR"
+    ],
+    "ergoloid": [
+        "HTR1B",
+        "HTR1A"
+    ],
+    "ergotamine": [
+        "HTR1D"
+    ],
+    "eribulin": [
+        "TUBB2B"
+    ],
+    "erlotinib": [
+        "EGFR"
+    ],
+    "escitalopram": [
+        "SLC6A4"
+    ],
+    "esmolol": [
+        "ADRB2"
+    ],
+    "esomeprazole": [
+        "ATP4B"
+    ],
+    "estazolam": [
+        "GABRE"
+    ],
+    "estradiol": [
+        "ESR1"
+    ],
+    "estradiol acetate": [
+        "ESR1"
+    ],
+    "estradiol cypionate": [
+        "ESR1"
+    ],
+    "estradiol valerate": [
+        "ESR1"
+    ],
+    "estramustine phosphate": [
+        "ESR2"
+    ],
+    "estrone": [
+        "GSDMC",
+        "ESR1"
+    ],
+    "estrone sulfuric acid": [
+        "ESR1"
+    ],
+    "eszopiclone": [
+        "GABRE"
+    ],
+    "etanercept": [
+        "TNF"
+    ],
+    "ethacrynic acid": [
+        "SLC12A1"
+    ],
+    "ethchlorvynol": [
+        "GABRE"
+    ],
+    "ethinamate": [
+        "GSDMC"
+    ],
+    "ethinyl estradiol": [
+        "ESR1"
+    ],
+    "ethopropazine": [
+        "CHRM1"
+    ],
+    "ethylestrenol": [
+        "AR"
+    ],
+    "ethynodiol diacetate": [
+        "PGR"
+    ],
+    "etodolac": [
+        "PTGS2"
+    ],
+    "etomidate": [
+        "GABRE"
+    ],
+    "etonogestrel": [
+        "PGR"
+    ],
+    "etoposide phosphate": [
+        "TOP2A"
+    ],
+    "everolimus": [
+        "FKBP1A"
+    ],
+    "exemestane": [
+        "CYP19A1"
+    ],
+    "exenatide": [
+        "GLP1R"
+    ],
+    "ezetimibe": [
+        "NPC1L1"
+    ],
+    "famotidine": [
+        "HRH2"
+    ],
+    "febuxostat": [
+        "XDH"
+    ],
+    "felbamate": [
+        "GRIN3B"
+    ],
+    "felodipine": [
+        "NR3C2"
+    ],
+    "fenofibrate": [
+        "PPARA"
+    ],
+    "fenofibric acid": [
+        "PPARA"
+    ],
+    "fenoldopam": [
+        "DRD1"
+    ],
+    "fentanyl": [
+        "OPRM1"
+    ],
+    "ferumoxytol": [
+        "GSDMC"
+    ],
+    "fesoterodine": [
+        "CHRM2",
+        "CHRM3"
+    ],
+    "fexofenadine": [
+        "HRH1"
+    ],
+    "fibrinolysin, human": [
+        "FGG"
+    ],
+    "filgrastim": [
+        "CSF3R"
+    ],
+    "finasteride": [
+        "GSDMC"
+    ],
+    "flecainide": [
+        "SCN5A"
+    ],
+    "floxuridine": [
+        "TYMS"
+    ],
+    "flucytosine": [
+        "GSDMC"
+    ],
+    "fludarabine phosphate": [
+        "POLE3"
+    ],
+    "fludrocortisone acetate": [
+        "NR3C2"
+    ],
+    "flumazenil": [
+        "GABRE"
+    ],
+    "flumethasone pivalate": [
+        "NR3C1"
+    ],
+    "flunisolide": [
+        "NR3C1"
+    ],
+    "fluocinolone acetonide": [
+        "NR3C1"
+    ],
+    "fluocinonide": [
+        "NR3C1"
+    ],
+    "fluorometholone": [
+        "NR3C1"
+    ],
+    "fluorometholone acetate": [
+        "NR3C1"
+    ],
+    "fluorouracil": [
+        "TYMS"
+    ],
+    "fluoxetine": [
+        "SLC6A4"
+    ],
+    "fluoxymesterone": [
+        "AR"
+    ],
+    "fluphenazine": [
+        "DRD2",
+        "GSDMC"
+    ],
+    "fluphenazine decanoate": [
+        "DRD2"
+    ],
+    "fluphenazine enanthate": [
+        "DRD2"
+    ],
+    "fluprednisolone": [
+        "NR3C1"
+    ],
+    "flurandrenolide": [
+        "NR3C1"
+    ],
+    "flurazepam": [
+        "GABRE"
+    ],
+    "flutamide": [
+        "AR"
+    ],
+    "fluticasone furoate": [
+        "NR3C1"
+    ],
+    "fluticasone propionate": [
+        "NR3C1",
+        "PGR"
+    ],
+    "fluvastatin": [
+        "HMGCR"
+    ],
+    "fluvoxamine": [
+        "SLC6A4"
+    ],
+    "fondaparinux": [
+        "SERPINC1"
+    ],
+    "formoterol": [
+        "ADRB2"
+    ],
+    "fosaprepitant": [
+        "TACR1"
+    ],
+    "fosinopril": [
+        "ACE"
+    ],
+    "fospropofol": [
+        "GSDMC"
+    ],
+    "frovatriptan": [
+        "HTR1B",
+        "HTR1D"
+    ],
+    "furosemide": [
+        "SLC12A1"
+    ],
+    "gabapentin": [
+        "CACNA2D4"
+    ],
+    "gabapentin enacarbil": [
+        "CACNA2D4"
+    ],
+    "gadoxetic acid": [
+        "GSDMC"
+    ],
+    "galantamine": [
+        "ACHE"
+    ],
+    "ganirelix acetate": [
+        "GNRHR"
+    ],
+    "gefitinib": [
+        "EGFR"
+    ],
+    "gemcitabine": [
+        "GSDMC",
+        "POLE3"
+    ],
+    "gemfibrozil": [
+        "PPARA"
+    ],
+    "gemtuzumab ozogamicin": [
+        "CD33"
+    ],
+    "glatiramer acetate": [
+        "GSDMC"
+    ],
+    "glimepiride": [
+        "GSDMC"
+    ],
+    "glucagon": [
+        "GCGR"
+    ],
+    "glucagon hydrochloride": [
+        "GCGR"
+    ],
+    "glucagon hydrochloride recombinant": [
+        "GCGR"
+    ],
+    "glutethimide": [
+        "GABRE"
+    ],
+    "glycopyrrolate": [
+        "GSDMC",
+        "CHRM1",
+        "CHRM3"
+    ],
+    "golimumab": [
+        "TNF"
+    ],
+    "gonadorelin": [
+        "GNRHR"
+    ],
+    "gonadotropin, chorionic": [
+        "LHCGR"
+    ],
+    "goserelin": [
+        "GNRHR"
+    ],
+    "granisetron": [
+        "HTR3A"
+    ],
+    "guaifenesin": [
+        "GSDMC"
+    ],
+    "guanadrel": [
+        "SLC6A2"
+    ],
+    "guanethidine": [
+        "SLC6A2"
+    ],
+    "guanidine": [
+        "KCND1"
+    ],
+    "halazepam": [
+        "GABRE"
+    ],
+    "halcinonide": [
+        "NR3C1"
+    ],
+    "halobetasol propionate": [
+        "NR3C1"
+    ],
+    "haloperidol": [
+        "HTR2A"
+    ],
+    "haloperidol decanoate": [
+        "HTR2A"
+    ],
+    "halothane": [
+        "GABRE",
+        "GLRB",
+        "KCNK2",
+        "KCNK9",
+        "KCNK18",
+        "KCNK3",
+        "KCNK10"
+    ],
+    "heparin calcium": [
+        "SERPINC1"
+    ],
+    "heparin sodium": [
+        "SERPINC1"
+    ],
+    "hexafluorenium": [
+        "ACHE"
+    ],
+    "hexocyclium": [
+        "CHRM1",
+        "CHRM3"
+    ],
+    "histamine": [
+        "HRH1"
+    ],
+    "histrelin": [
+        "GNRHR"
+    ],
+    "human interleukin-2": [
+        "IL2RG"
+    ],
+    "human lh": [
+        "LHCGR"
+    ],
+    "hydralazine": [
+        "GSDMC"
+    ],
+    "hydrochlorothiazide": [
+        "SLC12A3"
+    ],
+    "hydrocortamate": [
+        "NR3C1"
+    ],
+    "hydrocortisone": [
+        "NR3C1"
+    ],
+    "hydrocortisone acetate": [
+        "NR3C1"
+    ],
+    "hydrocortisone butyrate": [
+        "NR3C1"
+    ],
+    "hydrocortisone cypionate": [
+        "NR3C1"
+    ],
+    "hydrocortisone hemisuccinate": [
+        "NR3C1"
+    ],
+    "hydrocortisone phosphoric acid": [
+        "NR3C1"
+    ],
+    "hydrocortisone probutate": [
+        "NR3C1"
+    ],
+    "hydrocortisone valerate": [
+        "NR3C1"
+    ],
+    "hydroflumethiazide": [
+        "SLC12A3"
+    ],
+    "hydromorphone": [
+        "OPRM1"
+    ],
+    "hydroxychloroquine": [
+        "TLR9",
+        "TLR7"
+    ],
+    "hydroxyprogesterone caproate": [
+        "PGR"
+    ],
+    "hydroxyzine": [
+        "HRH1"
+    ],
+    "ibandronic acid": [
+        "FDPS"
+    ],
+    "ibrutinib": [
+        "BTK"
+    ],
+    "ibutilide": [
+        "KCNH2"
+    ],
+    "icatibant": [
+        "BDKRB2"
+    ],
+    "icosapent ethyl": [
+        "GSDMC"
+    ],
+    "idarubicin": [
+        "TOP2A"
+    ],
+    "idelalisib": [
+        "PIK3CD"
+    ],
+    "iloperidone": [
+        "DRD2",
+        "HTR2A"
+    ],
+    "iloprost": [
+        "PTGIR"
+    ],
+    "imatinib": [
+        "ABL1",
+        "PDGFRB",
+        "KIT"
+    ],
+    "imipramine": [
+        "SLC6A2",
+        "SLC6A4"
+    ],
+    "imiquimod": [
+        "TLR7"
+    ],
+    "inamrinone": [
+        "PDE3A"
+    ],
+    "incobotulinumtoxina": [
+        "SNAP25"
+    ],
+    "indacaterol": [
+        "ADRB2"
+    ],
+    "indapamide": [
+        "SLC12A3"
+    ],
+    "infliximab": [
+        "TNF"
+    ],
+    "ingenol mebutate": [
+        "GSDMC"
+    ],
+    "insulin aspart": [
+        "INSR"
+    ],
+    "insulin aspart protamine recombinant": [
+        "INSR"
+    ],
+    "insulin detemir": [
+        "INSR"
+    ],
+    "insulin glargine": [
+        "INSR"
+    ],
+    "insulin glulisine": [
+        "INSR"
+    ],
+    "insulin human": [
+        "INSR"
+    ],
+    "insulin lispro": [
+        "INSR"
+    ],
+    "insulin lispro protamine recombinant": [
+        "INSR"
+    ],
+    "insulin pork": [
+        "INSR"
+    ],
+    "insulin purified beef": [
+        "INSR"
+    ],
+    "insulin purified pork": [
+        "INSR"
+    ],
+    "insulin susp isophane beef": [
+        "INSR"
+    ],
+    "insulin susp isophane beef/pork": [
+        "INSR"
+    ],
+    "insulin susp isophane purified beef": [
+        "INSR"
+    ],
+    "insulin susp isophane purified pork": [
+        "INSR"
+    ],
+    "insulin susp isophane recombinant human": [
+        "INSR"
+    ],
+    "insulin susp isophane semisynthetic purified human": [
+        "INSR"
+    ],
+    "insulin susp protamine zinc beef/pork": [
+        "INSR"
+    ],
+    "insulin susp protamine zinc purified beef": [
+        "INSR"
+    ],
+    "insulin susp protamine zinc purified pork": [
+        "INSR"
+    ],
+    "insulin zinc susp beef": [
+        "INSR"
+    ],
+    "insulin zinc susp extended beef": [
+        "INSR"
+    ],
+    "insulin zinc susp extended purified beef": [
+        "INSR"
+    ],
+    "insulin zinc susp extended recombinant human": [
+        "INSR"
+    ],
+    "insulin zinc susp prompt beef": [
+        "INSR"
+    ],
+    "insulin zinc susp prompt purified pork": [
+        "INSR"
+    ],
+    "insulin zinc susp purified beef": [
+        "INSR"
+    ],
+    "insulin zinc susp purified beef/pork": [
+        "INSR"
+    ],
+    "insulin zinc susp purified pork": [
+        "INSR"
+    ],
+    "insulin zinc susp recombinant human": [
+        "INSR"
+    ],
+    "insulin zinc susp semisynthetic purified human": [
+        "INSR"
+    ],
+    "interferon alfa-2a": [
+        "IFNAR2"
+    ],
+    "interferon alfa-2b": [
+        "IFNAR2"
+    ],
+    "interferon alfa-n3": [
+        "IFNAR2"
+    ],
+    "interferon alfacon-1": [
+        "IFNAR2"
+    ],
+    "interferon beta-1a": [
+        "IFNAR2"
+    ],
+    "interferon beta-1b": [
+        "IFNAR2"
+    ],
+    "interferon gama-1b": [
+        "IFNGR2"
+    ],
+    "ipilimumab": [
+        "CTLA4"
+    ],
+    "ipratropium": [
+        "CHRM3"
+    ],
+    "irbesartan": [
+        "AGTR1"
+    ],
+    "irinotecan": [
+        "GSDMC",
+        "TOP1"
+    ],
+    "isoetharine": [
+        "ADRB2"
+    ],
+    "isoflurane": [
+        "GABRE",
+        "GLRB",
+        "KCNK2",
+        "KCNK9",
+        "KCNK18",
+        "KCNK3",
+        "KCNK10"
+    ],
+    "isoflurophate": [
+        "ACHE"
+    ],
+    "isopropamide": [
+        "CHRM1",
+        "CHRM3"
+    ],
+    "isosorbide": [
+        "GSDMC"
+    ],
+    "isosorbide dinitrate": [
+        "GUCY1A2"
+    ],
+    "isosorbide mononitrate": [
+        "GUCY1A2"
+    ],
+    "ivabradine": [
+        "GSDMC",
+        "HCN4"
+    ],
+    "ivacaftor": [
+        "CFTR"
+    ],
+    "ixabepilone": [
+        "TUBB2B"
+    ],
+    "ketamine": [
+        "GRIN3B"
+    ],
+    "ketoconazole": [
+        "GSDMC"
+    ],
+    "ketotifen": [
+        "HRH1"
+    ],
+    "lactic acid": [
+        "GSDMC"
+    ],
+    "lactitol": [
+        "GSDMC"
+    ],
+    "lanreotide": [
+        "SSTR5",
+        "SSTR2"
+    ],
+    "lansoprazole": [
+        "ATP4B"
+    ],
+    "lapatinib": [
+        "EGFR",
+        "ERBB2"
+    ],
+    "lapyrium": [
+        "GSDMC"
+    ],
+    "latanoprost": [
+        "PTGFR"
+    ],
+    "ledipasvir": [
+        "GSDMC"
+    ],
+    "leflunomide": [
+        "DHODH"
+    ],
+    "lenalidomide": [
+        "GSDMC"
+    ],
+    "lenvatinib": [
+        "GSDMC"
+    ],
+    "lepirudin": [
+        "F2"
+    ],
+    "letrozole": [
+        "CYP19A1"
+    ],
+    "leuprolide": [
+        "GNRHR"
+    ],
+    "levallorphan": [
+        "OPRM1",
+        "OPRK1"
+    ],
+    "levetiracetam": [
+        "SV2A",
+        "CACNA1B"
+    ],
+    "levobunolol": [
+        "GSDMC",
+        "ADRB2"
+    ],
+    "levobupivacaine": [
+        "SCN4A"
+    ],
+    "levocabastine": [
+        "HRH1"
+    ],
+    "levocetirizine": [
+        "GSDMC",
+        "HRH1"
+    ],
+    "levofloxacin": [
+        "GSDMC"
+    ],
+    "levoleucovorin": [
+        "GSDMC"
+    ],
+    "levomefolic acid": [
+        "GSDMC"
+    ],
+    "levomethadyl acetate": [
+        "OPRM1"
+    ],
+    "levomilnacipran": [
+        "SLC6A2",
+        "SLC6A4"
+    ],
+    "levonorgestrel": [
+        "PGR"
+    ],
+    "levopropoxyphene": [
+        "GSDMC"
+    ],
+    "levorphanol": [
+        "OPRM1"
+    ],
+    "levosalbutamol": [
+        "ADRB2"
+    ],
+    "linaclotide": [
+        "GUCY2C"
+    ],
+    "linagliptin": [
+        "DPP4"
+    ],
+    "liraglutide": [
+        "GLP1R"
+    ],
+    "lisdexamfetamine": [
+        "SLC18A2",
+        "SLC6A2",
+        "SLC6A3"
+    ],
+    "lisinopril": [
+        "ACE"
+    ],
+    "lithium carbonate": [
+        "IMPA1"
+    ],
+    "lithium citrate": [
+        "IMPA1"
+    ],
+    "lodoxamide": [
+        "GSDMC"
+    ],
+    "loperamide": [
+        "OPRM1"
+    ],
+    "loratadine": [
+        "HRH1"
+    ],
+    "lorazepam": [
+        "GABRE"
+    ],
+    "losartan": [
+        "AGTR1"
+    ],
+    "loteprednol etabonate": [
+        "NR3C1"
+    ],
+    "lovastatin": [
+        "HMGCR"
+    ],
+    "loxapine": [
+        "HTR2A"
+    ],
+    "lubiprostone": [
+        "CLCN2"
+    ],
+    "lucinactant": [
+        "GSDMC"
+    ],
+    "lumacaftor": [
+        "CFTR"
+    ],
+    "lurasidone": [
+        "DRD2",
+        "GSDMC",
+        "HTR2A"
+    ],
+    "lutropin alfa": [
+        "LHCGR"
+    ],
+    "magnesium sulfate anhydrous": [
+        "GSDMC"
+    ],
+    "maprotiline": [
+        "SLC6A2"
+    ],
+    "maraviroc": [
+        "CCR5"
+    ],
+    "mebutamate": [
+        "GSDMC"
+    ],
+    "mecamylamine": [
+        "CHRNB4"
+    ],
+    "mecasermin": [
+        "IGF1R"
+    ],
+    "mecasermin rinfabate": [
+        "IGF1R"
+    ],
+    "meclizine": [
+        "HRH1"
+    ],
+    "meclofenamic acid": [
+        "ALOX5"
+    ],
+    "medroxyprogesterone acetate": [
+        "PGR"
+    ],
+    "medrysone": [
+        "NR3C1"
+    ],
+    "megestrol acetate": [
+        "PGR"
+    ],
+    "meloxicam": [
+        "PTGS2"
+    ],
+    "memantine": [
+        "GRIN3B"
+    ],
+    "menotropins": [
+        "LHCGR"
+    ],
+    "menthol": [
+        "TRPA1",
+        "TRPM8"
+    ],
+    "mepenzolate": [
+        "CHRM1",
+        "CHRM3"
+    ],
+    "meperidine": [
+        "OPRM1"
+    ],
+    "meprednisone": [
+        "NR3C1"
+    ],
+    "meprobamate": [
+        "GABRE"
+    ],
+    "mequinol": [
+        "TYR"
+    ],
+    "mercaptopurine": [
+        "PPAT"
+    ],
+    "mersalyl": [
+        "GSDMC"
+    ],
+    "mesalamine": [
+        "PPARG",
+        "ALOX5"
+    ],
+    "mesoridazine": [
+        "DRD2",
+        "HTR2A"
+    ],
+    "mestranol": [
+        "ESR1"
+    ],
+    "metaproterenol": [
+        "ADRB2"
+    ],
+    "metaxalone": [
+        "GSDMC"
+    ],
+    "metformin": [
+        "NDUFS1",
+        "GPD2"
+    ],
+    "methacholine": [
+        "CHRM3"
+    ],
+    "methadone": [
+        "OPRM1"
+    ],
+    "methantheline": [
+        "HRH2"
+    ],
+    "metharbital": [
+        "GABRE"
+    ],
+    "methazolamide": [
+        "CA1",
+        "CA7",
+        "CA4",
+        "CA2"
+    ],
+    "methdilazine": [
+        "HRH1"
+    ],
+    "methimazole": [
+        "TPO"
+    ],
+    "methixene": [
+        "CHRM1"
+    ],
+    "methocarbamol": [
+        "CA1"
+    ],
+    "methohexital": [
+        "GABRE"
+    ],
+    "methotrexate": [
+        "DHFR"
+    ],
+    "methoxyflurane": [
+        "GLRB",
+        "GABRE"
+    ],
+    "methscopolamine": [
+        "CHRM1",
+        "CHRM3"
+    ],
+    "methyclothiazide": [
+        "SLC12A3"
+    ],
+    "methyl salicylate": [
+        "GSDMC"
+    ],
+    "methylergonovine": [
+        "HTR2B",
+        "DRD1"
+    ],
+    "methylhomatropine": [
+        "GSDMC"
+    ],
+    "methylnaltrexone": [
+        "OPRM1"
+    ],
+    "methylphenidate": [
+        "SLC6A2",
+        "SLC6A3"
+    ],
+    "methylprednisolone": [
+        "NR3C1"
+    ],
+    "methylprednisolone hemisuccinate": [
+        "NR3C1"
+    ],
+    "methylpromazine": [
+        "HRH1"
+    ],
+    "methyltestosterone": [
+        "AR"
+    ],
+    "methyprylon": [
+        "GABRE"
+    ],
+    "methysergide": [
+        "HTR2B",
+        "HTR1A"
+    ],
+    "metipranolol": [
+        "ADRB2"
+    ],
+    "metoclopramide": [
+        "DRD2",
+        "HTR3A",
+        "HTR4"
+    ],
+    "metolazone": [
+        "SLC12A3"
+    ],
+    "metreleptin": [
+        "LEPR"
+    ],
+    "metyrosine": [
+        "TH"
+    ],
+    "midazolam": [
+        "GABRE"
+    ],
+    "mifepristone": [
+        "NR3C1",
+        "PGR"
+    ],
+    "miglitol": [
+        "GAA",
+        "MGAM"
+    ],
+    "miglustat": [
+        "UGCG"
+    ],
+    "milnacipran": [
+        "SLC6A2",
+        "SLC6A4"
+    ],
+    "milrinone": [
+        "PDE3A"
+    ],
+    "miltefosine": [
+        "GSDMC"
+    ],
+    "mirabegron": [
+        "ADRB3"
+    ],
+    "mirtazapine": [
+        "HTR2A"
+    ],
+    "misoprostol": [
+        "PTGER3"
+    ],
+    "mitotane": [
+        "CYP11A1",
+        "CYP11B1"
+    ],
+    "mitoxantrone": [
+        "GSDMC",
+        "TOP2A"
+    ],
+    "modafinil": [
+        "SLC6A3"
+    ],
+    "moexipril": [
+        "ACE"
+    ],
+    "molindone": [
+        "DRD2",
+        "HTR2A"
+    ],
+    "mometasone furoate": [
+        "NR3C1"
+    ],
+    "monobenzone": [
+        "TYR"
+    ],
+    "monoctanoin": [
+        "GSDMC"
+    ],
+    "montelukast": [
+        "CYSLTR1"
+    ],
+    "morphine": [
+        "OPRM1"
+    ],
+    "moxifloxacin": [
+        "GSDMC"
+    ],
+    "muromonab-cd3": [
+        "CD3G"
+    ],
+    "nabilone": [
+        "CNR1"
+    ],
+    "nabumetone": [
+        "PTGS2"
+    ],
+    "nadolol": [
+        "ADRB2"
+    ],
+    "nafarelin": [
+        "GNRHR"
+    ],
+    "naloxegol": [
+        "OPRM1"
+    ],
+    "nandrolone decanoate": [
+        "AR"
+    ],
+    "nandrolone phenpropionate": [
+        "AR"
+    ],
+    "naratriptan": [
+        "HTR1B",
+        "HTR1D"
+    ],
+    "nebivolol": [
+        "ADRB2"
+    ],
+    "nedocromil": [
+        "GSDMC"
+    ],
+    "nefazodone": [
+        "SLC6A2",
+        "SLC6A4",
+        "HTR2A"
+    ],
+    "nelarabine": [
+        "GSDMC"
+    ],
+    "neostigmine": [
+        "ACHE"
+    ],
+    "nesiritide": [
+        "NPR1"
+    ],
+    "netupitant": [
+        "TACR1"
+    ],
+    "nilotinib": [
+        "ABL1"
+    ],
+    "nilutamide": [
+        "AR"
+    ],
+    "nimodipine": [
+        "NR3C2"
+    ],
+    "nitric oxide": [
+        "GUCY1A2"
+    ],
+    "nitroglycerin": [
+        "GUCY1A2"
+    ],
+    "nitroprusside": [
+        "GUCY1A2"
+    ],
+    "nivolumab": [
+        "PDCD1"
+    ],
+    "nizatidine": [
+        "HRH2"
+    ],
+    "nordihydroguaiaretic acid": [
+        "GSDMC"
+    ],
+    "norelgestromin": [
+        "PGR"
+    ],
+    "norethindrone": [
+        "PGR"
+    ],
+    "norethindrone acetate": [
+        "PGR"
+    ],
+    "norethynodrel": [
+        "PGR"
+    ],
+    "norfloxacin": [
+        "GSDMC"
+    ],
+    "norgestimate": [
+        "PGR"
+    ],
+    "norgestrel": [
+        "PGR"
+    ],
+    "nortriptyline": [
+        "SLC6A2",
+        "SLC6A4"
+    ],
+    "obinutuzumab": [
+        "MS4A1"
+    ],
+    "ocriplasmin": [
+        "COL4A5",
+        "LAMC3",
+        "FN1"
+    ],
+    "ofatumumab": [
+        "MS4A1"
+    ],
+    "ofloxacin": [
+        "GSDMC"
+    ],
+    "olanzapine": [
+        "HTR2A"
+    ],
+    "olmesartan medoxomil": [
+        "AGTR1"
+    ],
+    "olodaterol": [
+        "ADRB2"
+    ],
+    "olopatadine": [
+        "HRH1"
+    ],
+    "olsalazine": [
+        "PPARG",
+        "ALOX5"
+    ],
+    "omacetaxine mepesuccinate": [
+        "GSDMC"
+    ],
+    "omalizumab": [
+        "IGHE"
+    ],
+    "ombitasvir": [
+        "GSDMC"
+    ],
+    "omega-3-acid ethyl esters": [
+        "GSDMC"
+    ],
+    "omeprazole": [
+        "ATP4B"
+    ],
+    "ondansetron": [
+        "HTR3A"
+    ],
+    "oprelvekin": [
+        "IL11RA"
+    ],
+    "orlistat": [
+        "LIPF",
+        "FASN",
+        "PNLIP"
+    ],
+    "orphenadrine": [
+        "SLC6A2",
+        "GRIN3B",
+        "HRH1"
+    ],
+    "oxandrolone": [
+        "AR"
+    ],
+    "oxazepam": [
+        "GABRE"
+    ],
+    "oxiglutatione": [
+        "GSR"
+    ],
+    "oxprenolol": [
+        "ADRB2"
+    ],
+    "oxybutynin": [
+        "CHRM2",
+        "CHRM3"
+    ],
+    "oxycodone": [
+        "OPRM1"
+    ],
+    "oxymetholone": [
+        "AR"
+    ],
+    "oxyphencyclimine": [
+        "CHRM1",
+        "CHRM3"
+    ],
+    "oxyphenonium": [
+        "CHRM1",
+        "CHRM3"
+    ],
+    "oxytocin": [
+        "OXTR"
+    ],
+    "paclitaxel": [
+        "TUBB2B"
+    ],
+    "palifermin": [
+        "FGFR2"
+    ],
+    "paliperidone": [
+        "DRD2",
+        "HTR2A"
+    ],
+    "palivizumab": [
+        "GSDMC"
+    ],
+    "palonosetron": [
+        "HTR3A"
+    ],
+    "pamidronic acid": [
+        "FDPS"
+    ],
+    "panitumumab": [
+        "EGFR"
+    ],
+    "pantoprazole": [
+        "ATP4B"
+    ],
+    "paramethasone acetate": [
+        "NR3C1"
+    ],
+    "parathyroid hormone": [
+        "PTH1R"
+    ],
+    "paricalcitol": [
+        "VDR"
+    ],
+    "paroxetine": [
+        "SLC6A4"
+    ],
+    "pasireotide": [
+        "SSTR5",
+        "SSTR3",
+        "SSTR2",
+        "SSTR1"
+    ],
+    "pazopanib": [
+        "FGFR3",
+        "FGFR1",
+        "KIT",
+        "LCK",
+        "ITK",
+        "CSF1R"
+    ],
+    "pegaptanib sodium": [
+        "VEGFA"
+    ],
+    "pegfilgrastim": [
+        "CSF3R"
+    ],
+    "peginesatide acetate": [
+        "EPOR"
+    ],
+    "peginterferon alfa-2a": [
+        "IFNAR2"
+    ],
+    "peginterferon alfa-2b": [
+        "IFNAR2"
+    ],
+    "peginterferon beta-1a": [
+        "IFNAR2"
+    ],
+    "pegvisomant": [
+        "GHR"
+    ],
+    "pembrolizumab": [
+        "PDCD1"
+    ],
+    "pemetrexed": [
+        "TYMS",
+        "DHFR",
+        "GART"
+    ],
+    "pemirolast": [
+        "GSDMC"
+    ],
+    "pemoline": [
+        "GSDMC"
+    ],
+    "penbutolol": [
+        "ADRB2"
+    ],
+    "pentazocine": [
+        "SIGMAR1"
+    ],
+    "pentobarbital": [
+        "GABRE"
+    ],
+    "pentolinium": [
+        "CHRNB4"
+    ],
+    "pentosan polysulfate sodium": [
+        "GSDMC"
+    ],
+    "pentostatin": [
+        "ADA"
+    ],
+    "pentoxifylline": [
+        "PDE6G"
+    ],
+    "perindopril": [
+        "ACE"
+    ],
+    "perphenazine": [
+        "DRD2"
+    ],
+    "pertuzumab": [
+        "ERBB2"
+    ],
+    "phendimetrazine": [
+        "SLC6A2",
+        "SLC6A3"
+    ],
+    "phenindione": [
+        "VKORC1"
+    ],
+    "pheniramine": [
+        "HRH1"
+    ],
+    "phenmetrazine": [
+        "SLC6A2",
+        "SLC6A3"
+    ],
+    "phenprocoumon": [
+        "VKORC1"
+    ],
+    "phentermine": [
+        "SLC6A2"
+    ],
+    "phenyl aminosalicylate": [
+        "GSDMC"
+    ],
+    "phenylpropanolamine": [
+        "SLC6A2",
+        "ADRA1A"
+    ],
+    "pilocarpine": [
+        "CHRM1",
+        "CHRM3"
+    ],
+    "pimecrolimus": [
+        "FKBP1A"
+    ],
+    "pimozide": [
+        "HTR2A"
+    ],
+    "pindolol": [
+        "ADRB2"
+    ],
+    "pioglitazone": [
+        "PPARG"
+    ],
+    "piperacetazine": [
+        "GSDMC"
+    ],
+    "piperaquine": [
+        "GSDMC"
+    ],
+    "pirbuterol": [
+        "ADRB2"
+    ],
+    "pirfenidone": [
+        "GSDMC"
+    ],
+    "pitavastatin": [
+        "HMGCR"
+    ],
+    "plerixafor": [
+        "CXCR4"
+    ],
+    "podofilox": [
+        "GSDMC"
+    ],
+    "polidocanol": [
+        "GSDMC"
+    ],
+    "polyestradiol phosphate": [
+        "ESR1"
+    ],
+    "polythiazide": [
+        "SLC12A3"
+    ],
+    "pomalidomide": [
+        "GSDMC"
+    ],
+    "ponatinib": [
+        "ABL1",
+        "GSDMC",
+        "BCR"
+    ],
+    "poractant alfa": [
+        "GSDMC"
+    ],
+    "potassium iodide": [
+        "GSDMC"
+    ],
+    "potassium sulfate": [
+        "GSDMC"
+    ],
+    "pralatrexate": [
+        "DHFR"
+    ],
+    "pralidoxime": [
+        "ACHE"
+    ],
+    "pramlintide acetate": [
+        "RAMP2",
+        "RAMP3",
+        "RAMP1"
+    ],
+    "pramoxine": [
+        "GSDMC"
+    ],
+    "prasugrel": [
+        "P2RY12"
+    ],
+    "pravastatin": [
+        "HMGCR"
+    ],
+    "prazepam": [
+        "GABRE"
+    ],
+    "prednicarbate": [
+        "NR3C1"
+    ],
+    "prednisolone": [
+        "NR3C1"
+    ],
+    "prednisolone acetate": [
+        "NR3C1"
+    ],
+    "prednisolone phosphoric acid": [
+        "NR3C1"
+    ],
+    "prednisolone tebutate": [
+        "NR3C1"
+    ],
+    "prednisone": [
+        "NR3C1"
+    ],
+    "pregabalin": [
+        "CACNA2D4"
+    ],
+    "primaquine": [
+        "GSDMC"
+    ],
+    "primidone": [
+        "GABRE"
+    ],
+    "probenecid": [
+        "SLC22A6",
+        "SLC22A8",
+        "SLC22A11"
+    ],
+    "probucol": [
+        "ABCA1"
+    ],
+    "procainamide": [
+        "GSDMC"
+    ],
+    "procaine benzylpenicillin": [
+        "GSDMC"
+    ],
+    "prochlorperazine": [
+        "DRD2",
+        "GSDMC"
+    ],
+    "procyclidine": [
+        "CHRM1"
+    ],
+    "progesterone": [
+        "PGR"
+    ],
+    "promazine": [
+        "HTR2A"
+    ],
+    "promethazine": [
+        "HRH1"
+    ],
+    "propafenone": [
+        "ADRB2"
+    ],
+    "propantheline": [
+        "CHRM2",
+        "CHRM3",
+        "CHRM1"
+    ],
+    "propiomazine": [
+        "HRH1"
+    ],
+    "propofol": [
+        "GABRE"
+    ],
+    "propoxyphene": [
+        "GSDMC",
+        "OPRM1"
+    ],
+    "propranolol": [
+        "GSDMC",
+        "ADRB2"
+    ],
+    "propylthiouracil": [
+        "TPO",
+        "DIO1"
+    ],
+    "protirelin": [
+        "TRHR"
+    ],
+    "protokylol": [
+        "ADRB2"
+    ],
+    "protriptyline": [
+        "SLC6A2",
+        "SLC6A4"
+    ],
+    "pseudoephedrine": [
+        "SLC6A2"
+    ],
+    "pyridostigmine": [
+        "ACHE"
+    ],
+    "pyrilamine": [
+        "HRH1"
+    ],
+    "pyrithione": [
+        "GSDMC"
+    ],
+    "pyronaridine": [
+        "GSDMC"
+    ],
+    "pyrvinium": [
+        "GSDMC"
+    ],
+    "quazepam": [
+        "GABRE"
+    ],
+    "quetiapine": [
+        "DRD2",
+        "HTR2A"
+    ],
+    "quinapril": [
+        "ACE"
+    ],
+    "quinethazone": [
+        "SLC12A3"
+    ],
+    "quinidine": [
+        "GSDMC"
+    ],
+    "rabeprazole": [
+        "ATP4B"
+    ],
+    "radium dichloride": [
+        "GSDMC"
+    ],
+    "raloxifene": [
+        "GSDMC",
+        "ESR2"
+    ],
+    "raltegravir": [
+        "GSDMC"
+    ],
+    "ramipril": [
+        "ACE"
+    ],
+    "ramucirumab": [
+        "KDR"
+    ],
+    "ranibizumab": [
+        "VEGFA"
+    ],
+    "ranitidine": [
+        "HRH2"
+    ],
+    "ranolazine": [
+        "SCN4A",
+        "SCN5A"
+    ],
+    "rasagiline": [
+        "MAOB"
+    ],
+    "regadenoson": [
+        "ADORA2A"
+    ],
+    "regorafenib": [
+        "RET",
+        "FGFR1",
+        "ABL1",
+        "KIT",
+        "DDR2",
+        "MAPK11",
+        "BRAF",
+        "FGFR2",
+        "RAF1",
+        "TEK",
+        "FRK"
+    ],
+    "remifentanil": [
+        "OPRM1"
+    ],
+    "rescinnamine": [
+        "SLC18A2"
+    ],
+    "reserpine": [
+        "SLC18A2"
+    ],
+    "reteplase": [
+        "PLG"
+    ],
+    "riboflavin 5'-phosphate": [
+        "GSDMC"
+    ],
+    "rilonacept": [
+        "IL1B"
+    ],
+    "rimexolone": [
+        "NR3C1"
+    ],
+    "riociguat": [
+        "GUCY1A2"
+    ],
+    "risedronic acid": [
+        "FDPS"
+    ],
+    "risperidone": [
+        "DRD2",
+        "GSDMC",
+        "HTR2A"
+    ],
+    "ritodrine": [
+        "ADRB2"
+    ],
+    "rituximab": [
+        "MS4A1"
+    ],
+    "rivaroxaban": [
+        "F10"
+    ],
+    "rizatriptan": [
+        "HTR1B",
+        "HTR1D"
+    ],
+    "rofecoxib": [
+        "PTGS2"
+    ],
+    "romiplostim": [
+        "MPL"
+    ],
+    "rosiglitazone": [
+        "PPARG"
+    ],
+    "rosuvastatin": [
+        "HMGCR"
+    ],
+    "ruxolitinib": [
+        "JAK2",
+        "JAK1"
+    ],
+    "sacubitril": [
+        "MME"
+    ],
+    "salmeterol": [
+        "ADRB2"
+    ],
+    "samarium(ii) lexidronam": [
+        "GSDMC"
+    ],
+    "sapropterin": [
+        "PAH"
+    ],
+    "saralasin": [
+        "AGTR1"
+    ],
+    "sargramostim": [
+        "CSF2RA"
+    ],
+    "saxagliptin": [
+        "DPP4"
+    ],
+    "scopolamine": [
+        "CHRM1"
+    ],
+    "secobarbital": [
+        "GABRE"
+    ],
+    "secretin": [
+        "SCTR"
+    ],
+    "secretin synthetic human": [
+        "SCTR"
+    ],
+    "secretin synthetic porcine": [
+        "SCTR"
+    ],
+    "secukinumab": [
+        "IL17A"
+    ],
+    "selegiline": [
+        "MAOB"
+    ],
+    "selenium sulfide": [
+        "GSDMC"
+    ],
+    "seractide acetate": [
+        "MC2R"
+    ],
+    "sermorelin acetate": [
+        "GHRHR"
+    ],
+    "sertraline": [
+        "SLC6A4"
+    ],
+    "sevelamer": [
+        "GSDMC"
+    ],
+    "sevoflurane": [
+        "GABRE",
+        "GLRB",
+        "KCNK2",
+        "KCNK9",
+        "KCNK18",
+        "KCNK3",
+        "KCNK10"
+    ],
+    "sildenafil": [
+        "PDE5A"
+    ],
+    "silodosin": [
+        "ADRA1A"
+    ],
+    "siltuximab": [
+        "IL6"
+    ],
+    "simethicone": [
+        "GSDMC"
+    ],
+    "simvastatin": [
+        "HMGCR"
+    ],
+    "sinecatechins": [
+        "GSDMC"
+    ],
+    "sirolimus": [
+        "FKBP1A"
+    ],
+    "sitagliptin": [
+        "DPP4"
+    ],
+    "sodium benzoate": [
+        "GSDMC"
+    ],
+    "sodium phosphate": [
+        "GSDMC"
+    ],
+    "solifenacin": [
+        "CHRM2",
+        "CHRM3"
+    ],
+    "somatrem": [
+        "GHR"
+    ],
+    "somatropin": [
+        "GHR"
+    ],
+    "sorafenib": [
+        "FLT3",
+        "RET",
+        "KIT",
+        "PDGFRB",
+        "BRAF",
+        "RAF1"
+    ],
+    "sotalol": [
+        "KCNH2",
+        "ADRB2"
+    ],
+    "spirapril": [
+        "ACE"
+    ],
+    "spironolactone": [
+        "NR3C2"
+    ],
+    "stanozolol": [
+        "AR"
+    ],
+    "streptokinase": [
+        "PLG"
+    ],
+    "strontium chloride": [
+        "GSDMC"
+    ],
+    "sufentanil": [
+        "OPRM1"
+    ],
+    "sulfabenzamide": [
+        "GSDMC"
+    ],
+    "sulfasalazine": [
+        "ALOX5"
+    ],
+    "sulfinpyrazone": [
+        "SLC22A12"
+    ],
+    "sumatriptan": [
+        "HTR1B",
+        "HTR1D"
+    ],
+    "sunitinib": [
+        "RET",
+        "KIT",
+        "CSF1R",
+        "FLT3"
+    ],
+    "sucralfate": [
+        "PGA5"
+    ],
+    "tacrolimus": [
+        "FKBP1A"
+    ],
+    "tadalafil": [
+        "PDE5A"
+    ],
+    "tafluprost": [
+        "PTGFR"
+    ],
+    "talbutal": [
+        "GABRE"
+    ],
+    "tamoxifen": [
+        "ESR1"
+    ],
+    "tapentadol": [
+        "SLC6A2",
+        "OPRM1"
+    ],
+    "teduglutide": [
+        "GLP2R"
+    ],
+    "tegaserod": [
+        "HTR4"
+    ],
+    "telbivudine": [
+        "GSDMC"
+    ],
+    "telmisartan": [
+        "AGTR1"
+    ],
+    "temazepam": [
+        "GABRE"
+    ],
+    "temsirolimus": [
+        "FKBP1A"
+    ],
+    "tenecteplase": [
+        "PLG"
+    ],
+    "terbutaline": [
+        "ADRB2"
+    ],
+    "teriflunomide": [
+        "DHODH"
+    ],
+    "teriparatide": [
+        "PTH1R"
+    ],
+    "teriparatide acetate": [
+        "PTH1R"
+    ],
+    "tesamorelin": [
+        "GHRHR"
+    ],
+    "testolactone": [
+        "CYP19A1"
+    ],
+    "testosterone": [
+        "AR"
+    ],
+    "testosterone cypionate": [
+        "AR"
+    ],
+    "testosterone enanthate": [
+        "AR"
+    ],
+    "testosterone propionate": [
+        "AR"
+    ],
+    "testosterone undecanoate": [
+        "AR"
+    ],
+    "tetrabenazine": [
+        "SLC18A2"
+    ],
+    "tetradecyl sulfuric acid": [
+        "GSDMC"
+    ],
+    "thalidomide": [
+        "GSDMC"
+    ],
+    "thiamylal": [
+        "GABRE"
+    ],
+    "thiethylperazine": [
+        "DRD2"
+    ],
+    "thiopental": [
+        "GABRE"
+    ],
+    "thioridazine": [
+        "HTR2A"
+    ],
+    "thiothixene": [
+        "DRD2",
+        "HTR2A"
+    ],
+    "thyroglobulin": [
+        "GSDMC"
+    ],
+    "tiagabine": [
+        "SLC6A1"
+    ],
+    "ticagrelor": [
+        "P2RY12"
+    ],
+    "ticlopidine": [
+        "P2RY12"
+    ],
+    "timolol": [
+        "ADRB2"
+    ],
+    "tinzaparin sodium": [
+        "SERPINC1"
+    ],
+    "tiopronin": [
+        "GSDMC"
+    ],
+    "tiotropium": [
+        "CHRM3"
+    ],
+    "tirofiban": [
+        "ITGB3"
+    ],
+    "tocilizumab": [
+        "GSDMC",
+        "IL6R"
+    ],
+    "tolazoline": [
+        "HRH1",
+        "HRH2"
+    ],
+    "tolcapone": [
+        "COMT"
+    ],
+    "tolterodine": [
+        "CHRM2",
+        "CHRM3"
+    ],
+    "tolvaptan": [
+        "AVPR2"
+    ],
+    "topiramate": [
+        "GABRE",
+        "CA4",
+        "CA2",
+        "GRIK4"
+    ],
+    "topotecan": [
+        "TOP1MT"
+    ],
+    "torsemide": [
+        "SLC12A1"
+    ],
+    "tositumomab": [
+        "MS4A1"
+    ],
+    "tramadol": [
+        "OPRM1"
+    ],
+    "trametinib": [
+        "MAP2K2",
+        "MAP2K1"
+    ],
+    "trandolapril": [
+        "ACE"
+    ],
+    "tranexamic acid": [
+        "PLG"
+    ],
+    "trastuzumab": [
+        "ERBB2"
+    ],
+    "trastuzumab emtansine": [
+        "TUBB2B",
+        "ERBB2"
+    ],
+    "travoprost": [
+        "PTGFR"
+    ],
+    "trazodone": [
+        "SLC6A4",
+        "HTR2A"
+    ],
+    "treprostinil": [
+        "PTGIR"
+    ],
+    "triamcinolone": [
+        "NR3C1"
+    ],
+    "triamcinolone acetonide": [
+        "NR3C1"
+    ],
+    "triamcinolone diacetate": [
+        "NR3C1"
+    ],
+    "triamcinolone hexacetonide": [
+        "NR3C1"
+    ],
+    "triamterene": [
+        "SCNN1B"
+    ],
+    "triazolam": [
+        "GABRE"
+    ],
+    "trichlormethiazide": [
+        "SLC12A3"
+    ],
+    "triclofos": [
+        "GABRE"
+    ],
+    "tridihexethyl": [
+        "CHRM1",
+        "CHRM3"
+    ],
+    "trifluoperazine": [
+        "HTR2A"
+    ],
+    "triflupromazine": [
+        "DRD2"
+    ],
+    "trihexyphenidyl": [
+        "CHRM1"
+    ],
+    "trilostane": [
+        "HSD3B2"
+    ],
+    "trimethaphan": [
+        "CHRNB4"
+    ],
+    "trimethobenzamide": [
+        "GSDMC"
+    ],
+    "trimipramine": [
+        "DRD2",
+        "SLC6A2",
+        "HRH1",
+        "HTR2A"
+    ],
+    "tripelennamine": [
+        "HRH1"
+    ],
+    "triprolidine": [
+        "HRH1"
+    ],
+    "triptorelin": [
+        "GNRHR"
+    ],
+    "troglitazone": [
+        "PPARG"
+    ],
+    "tromethamine": [
+        "GSDMC"
+    ],
+    "tropicamide": [
+        "CHRM3"
+    ],
+    "trospium": [
+        "CHRM2",
+        "CHRM3"
+    ],
+    "tyloxapol": [
+        "GSDMC"
+    ],
+    "ulipristal acetate": [
+        "PGR"
+    ],
+    "umeclidinium": [
+        "CHRM3"
+    ],
+    "unoprostone isopropyl": [
+        "GSDMC"
+    ],
+    "urokinase": [
+        "PLG"
+    ],
+    "ursodiol": [
+        "NR1H4"
+    ],
+    "valacyclovir": [
+        "GSDMC"
+    ],
+    "valdecoxib": [
+        "PTGS2"
+    ],
+    "valproic acid": [
+        "GSDMC",
+        "ALDH5A1"
+    ],
+    "valrubicin": [
+        "TOP2A"
+    ],
+    "valsartan": [
+        "AGTR1"
+    ],
+    "vandetanib": [
+        "PTK6",
+        "RET",
+        "SRC",
+        "EPHA10",
+        "TEK"
+    ],
+    "vardenafil": [
+        "PDE5A"
+    ],
+    "vasopressin tannate": [
+        "AVPR1A",
+        "AVPR2",
+        "AVPR1B"
+    ],
+    "vemurafenib": [
+        "BRAF"
+    ],
+    "venlafaxine": [
+        "SLC6A2",
+        "SLC6A4"
+    ],
+    "verapamil": [
+        "GSDMC"
+    ],
+    "veratrum viride": [
+        "GSDMC"
+    ],
+    "vigabatrin": [
+        "ABAT"
+    ],
+    "vilanterol": [
+        "ADRB2"
+    ],
+    "vilazodone": [
+        "SLC6A4",
+        "HTR1A"
+    ],
+    "vinblastine": [
+        "TUBB2B"
+    ],
+    "vincristine": [
+        "TUBB2B"
+    ],
+    "vinorelbine base": [
+        "TUBB2B"
+    ],
+    "vismodegib": [
+        "SMO"
+    ],
+    "vorapaxar": [
+        "F2R"
+    ],
+    "vorinostat": [
+        "HDAC1",
+        "HDAC2",
+        "HDAC6",
+        "HDAC3"
+    ],
+    "vortioxetine": [
+        "GSDMC",
+        "SLC6A4",
+        "HTR3A",
+        "HTR1A"
+    ],
+    "warfarin": [
+        "VKORC1"
+    ],
+    "yttrium y 90 ibritumomab tiuxetan": [
+        "MS4A1"
+    ],
+    "zafirlukast": [
+        "CYSLTR1"
+    ],
+    "zaleplon": [
+        "GSDMC",
+        "GABRG2"
+    ],
+    "ziconotide acetate": [
+        "CACNA1B"
+    ],
+    "zidovudine": [
+        "GSDMC"
+    ],
+    "zileuton": [
+        "ALOX5"
+    ],
+    "ziprasidone": [
+        "DRD2",
+        "HTR2A"
+    ],
+    "zoledronic acid": [
+        "FDPS"
+    ],
+    "zolmitriptan": [
+        "HTR1B",
+        "HTR1D"
+    ],
+    "zolpidem": [
+        "GABRG2"
+    ]
+}
